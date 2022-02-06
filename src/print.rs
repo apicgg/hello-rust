@@ -19,4 +19,10 @@ pub fn run() {
 
     // Placeholder traits
     println!("Binary: {:b} Hex: {:x} Octal: {:o}", 10, 10, 10);
+
+    //Placeholder for debug trait
+    println!("{:?}", (10, "Anurag", true));
+
+    // Basic math
+    println!("{}", 10 + 10)
 }
